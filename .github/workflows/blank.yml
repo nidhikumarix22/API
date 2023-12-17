@@ -1,4 +1,4 @@
-name: AI
+name: AISI
 on: workflow_dispatch
 
 jobs:
